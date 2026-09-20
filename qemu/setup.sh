@@ -1,6 +1,4 @@
-
-
-
+#!/bin/bash
 
 help="usage: ./script <disk_storage> <vm_ram> <cpu_cores> <iso_img.iso>"
 main(){
